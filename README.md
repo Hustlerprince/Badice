@@ -1,4 +1,4 @@
-# SvelteKit Blog Template
+# SvelteKit Blog Templat
 
 A SvelteKit blog template built on mdsvex and Tailwind.
 
